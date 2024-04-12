@@ -19,11 +19,11 @@ header {
     margin-left: 40px;
     padding: 20px;
 }
-
 body {
     background-color:rgb(247, 247, 154);
     color:black;
-    margin: center;
+    font-family: 'Poppins', 'sans-serif' ;
+    
 }
 .titulo-2{
     color:black;
