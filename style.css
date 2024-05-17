@@ -31,6 +31,7 @@ body {
     font-family: 'Poppins', 'sans-serif' ;
     
 }
+
 .titulo-2{
     color:black;
     justify-content: center;
@@ -38,13 +39,14 @@ body {
 }
 
 .paragrafo-1{
-    margin-left: 20px;
+    text-align: center;
     justify-content: center;
 }
 
 .titulo-3{
     color:black;
     justify-content: center;
+    display: flex;
 }
 
 .paragrafo-2{
@@ -54,34 +56,47 @@ body {
 
 .arduino{
     width: 40%;
-    margin-right: 30px;
+    display: inline;
+    padding: 30px;
 }
 
-.multimrtro{
+.protoboard{
+    width: 25%;
+    display: inline;
+    padding: 120px;
+}
+.multimetro{
     width: 40%;
     margin-right: 30px;
 }
 
 .capacitor{
-    width: 40%;
-    padding: 45px;
-    margin-left: 30px;
-    margin-right: 50px;
+    width: 15%;
+    display: inline;
+    padding: 30px;
+    margin-left: 60px;
+    margin-right: 40px;
 }
 
 .senseor-LDR{
-    width: 40%;
-    margin-right: 50px;
+    width: 20%;
+    display: inline;
+    padding: 20px;
+    margin-left: 150px;
 }
 
 .LED{
-    width: 40%;
-    margin-right: 50px;
+    width: 20%;
+    display: inline;
+    padding: 20px;
+    margin-left: 140px;
 }
 
 .footer{
     background-color: #000000;
     color:white;
+    text-align: center;
+    padding: 10px;
 }
 
 p{
