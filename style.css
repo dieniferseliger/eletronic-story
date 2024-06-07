@@ -41,19 +41,19 @@ body {
 
 .paragrafo-1{
     margin-left: 200px;
-    justify-content: center;
+    text-align: center;
 }
 
 .titulo-3{
     color:black;
-    justify-content: center;
+    text-align: center;
     display: flex;
     margin-left: 500px;
 }
 
 .paragrafo-2{
     margin-left: 200px;
-    justify-content: center;
+    text-align: center;
 }
 
 .arduino{
