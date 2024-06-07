@@ -39,7 +39,7 @@ body {
 }
 
 .paragrafo-1{
-    text-align: center;
+    margin-left: 40px;
     justify-content: center;
 }
 
@@ -50,7 +50,7 @@ body {
 }
 
 .paragrafo-2{
-    margin-left: 20px;
+    margin-left: 40px;
     justify-content: center;
 }
 
