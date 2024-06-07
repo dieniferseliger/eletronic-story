@@ -34,7 +34,7 @@ body {
 
 .titulo-2{
     color:black;
-    justify-content: center;
+    text-align: center;
     display: flex;
     margin-left: 500px;
 }
