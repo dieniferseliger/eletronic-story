@@ -63,7 +63,7 @@ body {
 }
 
 .protoboard{
-    width: 30%;
+    width: 35%;
     display: inline;
     padding: 120px;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .capacitor{
-    width: 25%;
+    width: 35%;
     display: inline;
     padding: 30px;
     margin-left: 60px;
